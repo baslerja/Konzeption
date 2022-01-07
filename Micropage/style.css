@@ -10,6 +10,11 @@ h1 {
     text-align: center;
 }
 
+div.container {
+    background-color: #d8e2dc;
+    padding: 10px;
+}
+
 div.gallery {
     margin-left: 50px;
     margin-top: 20px;
@@ -28,8 +33,5 @@ div.desc {
     text-align: center;
 }
 
-#container {
-    background-color: #d8e2dc;
-    padding: 10px;
-}
+
 
