@@ -4,18 +4,19 @@ body {
     align-items: center;
     max-width: 1200px;
     font-family: sans-serif;
+    background-color: #d8e2dc;
 }
 
 h1 {
     text-align: center;
 }
 
-div.container {
+/*.container {
     background-color: #d8e2dc;
     padding: 10px;
-}
+}*/
 
-div.gallery {
+.gallery {
     margin-left: 50px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -23,12 +24,12 @@ div.gallery {
     width: 140px;
 }
   
-div.gallery img {
+.gallery img {
     width: 100%;
     height: auto;
 }
   
-div.desc {
+.desc {
     padding: 15px;
     text-align: center;
 }
