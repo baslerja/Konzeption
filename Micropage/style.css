@@ -12,13 +12,11 @@ body {
     margin-bottom: 10px;
 }
 
-h1 {
-    font-size: 5em;
-    font-family: 'Courier New', Courier, monospace;
-}
-
-.second {
-    margin-top: -70px;
+.screen {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 p {
