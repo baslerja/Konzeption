@@ -28,7 +28,7 @@ p {
     display: flex;
   }
   
-.column {
+.figure {
     flex: 25%;
     padding: 10px;
 }
